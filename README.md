@@ -1,6 +1,6 @@
 # Hi there!
-I’m Isac, a recent graduate from Oregon State University,interested in software engineering.
-I’ve built projects in Python, C, JavaScript, x86 Assembly, and so on! I'm always learning something new.
+I’m Isac, a recent graduate with a B.S. in Computer Science from Oregon State University, dedicated to software engineering.
+I’ve built projects in Python, C, JavaScript, x86 Assembly, and so on! I'm always learning something new (which is currently C++).
 You’ll find school projects, personal experiments, and open-source contributions here.
 
 
