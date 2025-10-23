@@ -24,25 +24,6 @@ Fun fact: Besides for programming languages, I'm obsessed with natural ('human')
 
 ---
 
-## Featured Projects
-
-### [Smallsh - Custom Shell Implementation](https://github.com/polasais/cs374-assignment4)
-A Unix shell written in C with process management, I/O redirection, and signal handling.
-
-**Tech Stack:** C, Unix System Calls, Process Management
-
-### [Ultimate Vocabulary Quiz](https://github.com/polasais/cs361-project)
-Interactive vocabulary learning app with microservices architecture using ZeroMQ for communication.
-
-**Tech Stack:** Python, ZeroMQ, JSON, Microservices
-
-### [Python Utility Functions](https://github.com/polasais/python-utilities)
-String parsing and data conversion utilities built from scratch without built-in conversion functions.
-
-**Tech Stack:** Python, Unit Testing, CI/CD
-
----
-
 ## Let's Connect!
 
 Feel free to reach out or check out my repositories to see what I'm working on!
