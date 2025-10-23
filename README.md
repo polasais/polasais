@@ -13,17 +13,9 @@ You’ll find school projects, personal experiments, and open-source contributio
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-### Most Used Languages
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=polasais&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages"/>
 </p>
-
----
-
-## Let's Connect!
-
-Feel free to reach out or check out my repositories to see what I'm working on!
 
 ---
 
