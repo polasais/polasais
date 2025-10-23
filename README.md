@@ -3,9 +3,6 @@ I’m Isac, a recent graduate with a B.S. in Computer Science from Oregon State 
 I’ve built projects in Python, C, JavaScript, x86 Assembly, and so on! I'm always learning something new (which is currently C++).
 You’ll find school projects, personal experiments, and open-source contributions here.
 
-
-Fun fact: Besides for programming languages, I'm obsessed with natural ('human') languages and speak 4 fluently and bits and pieces of over 5 additional ones!
-
 ## My Programming Languages:
 
 <p align="center">
@@ -29,3 +26,5 @@ Fun fact: Besides for programming languages, I'm obsessed with natural ('human')
 Feel free to reach out or check out my repositories to see what I'm working on!
 
 ---
+
+Fun fact: Besides for programming languages, I'm obsessed with natural ('human') languages and speak 4 fluently and bits and pieces of over 5 additional ones!
