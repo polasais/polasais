@@ -16,9 +16,7 @@ Fun fact: Besides for programming languages, I'm obsessed with natural ('human')
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
----
-
-## Most Used Languages
+### Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=polasais&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages"/>
