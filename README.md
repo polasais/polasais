@@ -48,11 +48,3 @@ String parsing and data conversion utilities built from scratch without built-in
 Feel free to reach out or check out my repositories to see what I'm working on!
 
 ---
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=polasais&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
-</p>
-
----
