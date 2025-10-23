@@ -2,6 +2,8 @@
 I’m Isac, a recent graduate from Oregon State University,interested in software engineering.
 I’ve built projects in Python, C, JavaScript, X86, and so on! I'm always learning something new.
 You’ll find school projects, personal experiments, and open-source contributions here.
+
+
 Fun fact: Besides for programming languages, I'm obsessed with natural ('human') languages and speak 4 fluently and bits and pieces of over 5 additional ones!
 
 ## My Programming Languages:
